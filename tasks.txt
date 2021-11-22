@@ -1,0 +1,2 @@
+1. Data needs to be converted to nominal data 0s or 1s etc
+2. Data needs to be cleared of Missing or NAs
